@@ -6,8 +6,8 @@
 ## Plan workflow
 
 - [x] Create drawings (templates) for every page (1st task).
-- [ ] Create of repo (2nd task).
-- [ ] Create HTML layout (3rd task).
+- [x] Create of repo (2nd task).
+- [x] Create HTML layout (3rd task).
 - [ ] Create CSS layouts according style guides (4th task).
 - [ ] Create grid layout for mobile first (5th task).
 - [ ] Create grid layout for desktop (6th task).
